@@ -11,13 +11,21 @@
     <div class="container">
         <div class="card mt-5">
             <div class="card-body">
-                <h3 class="text-center"><a href="https://santrikoding.com">www.santrikoding.com</a></h3>
-                <h5 class="text-center my-4">Laravel Eloquent Relationship : One To One</h5>
+                <h3 class="text-center"><a href="https://santrikoding.com">Dela Novela</a></h3>
+                <h5 class="text-center my-4">Laravel Eloquent Relationships : One To One</h5>
                 <table class="table table-bordered table-striped">
                     <thead>
                         <tr>
                             <th>Nama User</th>
                             <th>Nomor Telepon</th>
+                        </tr>
+                        <tr>
+                            <td>Udin</td>
+                            <td>083108001718</td>
+                        </tr>
+                        <tr>
+                            <td>Jamal</td>
+                            <td>083875212700</td>
                         </tr>
                     </thead>
                     <tbody>
